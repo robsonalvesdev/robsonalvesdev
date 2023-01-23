@@ -2104,5 +2104,10 @@
       "uri": "https:\/\/novatec.com.br\/livros\/linux-guia-administrador-do-sistema-2ed\/"
     }
 
+  ],
+  "portifolioCourse": [
+    { "name": "Alura", "uri": "https:\/\/cursos.alura.com.br\/vitrinedev\/robson-curitibapr"},
+    { "name": "Desenvolvedor.IO", "uri": "https:\/\/desenvolvedor.io\/transcript-publico\/c06f7c2d-0c22-461a-bc7d-c5421083e7ee"},
+    { "name": "Udemy", "uri": "https:\/\/www.udemy.com\/user\/robson-candido-dos-santos-alves\/"}
   ]
 }
