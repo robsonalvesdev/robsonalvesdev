@@ -2113,6 +2113,23 @@
         "so"
       ],
       "uri": "https:\/\/novatec.com.br\/livros\/linux-guia-administrador-do-sistema-2ed\/"
+    },
+    {
+      "title": "Mergulho nos Padrôes de Projetos",
+      "subtitle": "",
+      "author": [
+        "Alexander Shvets"
+      ],
+      "editor": "autoral",
+      "yearPublish": 2022,
+      "tags": [
+        "development",
+        "designpattern",
+        "solid",
+        "oop",
+        "refactory"
+      ],
+      "uri": "https:\/\/refactoring.guru\/pt-br\/design-patterns\/book"
     }
 
   ],
