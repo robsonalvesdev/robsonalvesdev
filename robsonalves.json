@@ -1623,8 +1623,10 @@
       "editor": "Bookman",
       "yearPublish": 2000,
       "tags": [
-        "ddd",
-        "development"
+        "development",
+        "design-pattern",
+        "oop",
+        "solid"
       ],
       "uri": "https:\/\/www.oreilly.com\/library\/view\/design-patterns-elements\/0201633612\/"
     },
