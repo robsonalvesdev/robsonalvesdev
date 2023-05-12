@@ -2132,6 +2132,51 @@
         "refactory"
       ],
       "uri": "https:\/\/refactoring.guru\/pt-br\/design-patterns\/book"
+    },
+    {
+      "title": "Apache Cassandra",
+      "subtitle": "Escalabilidade horizontal para aplicações Java",
+      "author": [
+        "Otávio Santana"
+      ],
+      "editor": "Casa do Codigo",
+      "yearPublish": 2020,
+      "tags": [
+        "cassandra",
+        "nosql",
+        "database"
+      ],
+      "uri": "https:\/\/www.casadocodigo.com.br\/products\/livro-apache-cassandra"
+    },
+    {
+      "title": "Migrando de sistemas monolíticos para microserviços",
+      "subtitle": "Padrões evolutivos para transformar seu sistema monolítico",
+      "author": [
+        "Sam Newman"
+      ],
+      "editor": "O'reilly",
+      "yearPublish": 2020,
+      "tags": [
+        "monolitic",
+        "development"
+      ],
+      "uri": "https:\/\/www.amazon.com.br\/Migrando-Sistemas-Monol%C3%ADticos-Para-Microsservi%C3%A7os\/dp\/6586057043"
+    },
+    {
+      "title": "Padrões Para Kubernetes",
+      "subtitle": "Elementos Reutilizáveis no Design de Aplicações Nativas de Nuvem",
+      "author": [
+        "Bilgin Lbryam",
+        "Roland Hub"
+      ],
+      "editor": "O'reilly",
+      "yearPublish": 2019,
+      "tags": [
+        "kubernete",
+        "docker",
+        "container"
+      ],
+      "uri": "https:\/\/www.amazon.com.br\/dp\/8575228145"
     }
 
   ],
