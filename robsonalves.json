@@ -1555,6 +1555,18 @@
         "uml",
         "analise"
       ]
+    },
+    {
+      "name": "DOMINANDO O KUBERNETES",
+      "conclusion": "2023-08-08T18:25:43.511Z",
+      "certificateUri": "https:\/\/desenvolvedor.io\/certificado\/a3c1edda-5326-4fcf-a31a-bf4e513d8bfd",
+      "institution": "Desenvolvedor.io",
+      "importance": "high",
+      "tags": [
+        "kubernetes",
+        "container",
+        "aks"
+      ]
     }
   ],
   "perfilAcademy": [
