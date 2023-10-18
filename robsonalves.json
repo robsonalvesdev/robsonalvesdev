@@ -1569,6 +1569,21 @@
   ],
   "bookRead": [
     {
+      "title": "Arquitetura Orientada a Eventos",
+      "subtitle": "Soluções escaláveis e em tempo real com EDA",
+      "author": [
+        "Roberto Picanço"
+      ],
+      "editor": "Casa do Codigo",
+      "yearPublish": 2023,
+      "tags": [
+        "eda",
+        "event",
+        "architecture"
+      ],
+      "uri": "https:\/\/www.casadocodigo.com.br\/products\/livro-eda\/"
+    },
+    {
       "title": "NoSQL Essencial",
       "subtitle": "",
       "author": [
