@@ -1571,7 +1571,21 @@
         "container",
         "aks"
       ]
+    },
+    {
+      "name": "Projetando Arquitetura em Três Camadas",
+      "conclusion": "2023-11-23T18:25:43.511Z",
+      "certificateUri": "https:\/\/desenvolvedor.io\/certificado\/197a0bfd-cbd4-48d7-a4bf-d7c31c1b2b04",
+      "institution": "Desenvolvedor.io",
+      "importance": "high",
+      "tags": [
+        ".net",
+        "c#",
+        "development",
+        "architecture"
+      ]
     }
+  
   ],
   "perfilAcademy": [
     {
