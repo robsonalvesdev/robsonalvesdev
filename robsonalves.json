@@ -1584,6 +1584,19 @@
         "development",
         "architecture"
       ]
+    },
+    {
+      "name": "Iniciando com ASP.NET Core",
+      "conclusion": "2023-12-04T18:25:43.511Z",
+      "certificateUri": "https:\/\/desenvolvedor.io\/certificado\/5f143d1a-7bb8-4580-892f-3e4735ca3520",
+      "institution": "Desenvolvedor.io",
+      "importance": "high",
+      "tags": [
+        ".net",
+        "c#",
+        "development",
+        "asp.net"
+      ]
     }
   
   ],
